@@ -1,3 +1,3 @@
 <?php
-$email_sender 	= "emailsender@yourdomain.com";
+$email_sender 	= "jangan-dibalas@snedel.com";
 ?>
